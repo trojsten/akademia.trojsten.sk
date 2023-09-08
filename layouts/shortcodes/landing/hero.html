@@ -1,0 +1,23 @@
+<div class="relative isolate overflow-hidden">
+    {{- $img := resources.Get "header.mp4" -}}
+    <video src="{{ $img.RelPermalink }}" class="absolute inset-0 -z-20 h-full w-full object-cover" autoplay loop muted></video>
+    <div class="absolute inset-0 w-full h-full bg-white/60 -z-10"></div>
+
+    <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
+        <div class="text-center">
+            {{- $img := resources.Get "logo/color.svg" -}}
+            <img src="{{ $img.RelPermalink }}" alt="Akadémia Trojstenu" class="h-28 mx-auto mb-8">
+
+            <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">{{ .Get "title" }}</h1>
+            {{ if strings.ContainsNonSpace (.Get "subtitle") }}
+            <p class="mt-6 text-lg leading-8 text-gray-900/70">{{ .Get "subtitle" }}</p>
+            {{ end }}
+
+            {{ if strings.ContainsNonSpace .Inner }}
+            <div class="mt-10 flex items-center justify-center gap-x-6">
+                {{ .InnerDeindent }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>

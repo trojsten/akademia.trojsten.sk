@@ -1,0 +1,15 @@
+<div>
+    <div class="flex items-center gap-x-3 text-base font-semibold leading-7 text-gray-900">
+        <span class="iconify w-5 h-5 flex-none text-red-600" {{ printf "data-icon=%q" (.Get "icon") | safeHTMLAttr }}></span>
+        {{ .Get "title" }}
+    </div>
+    <div class="mt-4 text-base leading-7 text-gray-600 space-y-2">
+        {{ .InnerDeindent | markdownify }}
+    </div>
+    {{ if .Get "cta_text" }}
+    <a href="{{ .Get "cta_link" | safeURL }}" class="btn mt-6">
+        {{ .Get "cta_text" }}
+        <span class="iconify w-4 h-4" data-icon="mdi:arrow-right"></span>
+    </a>
+    {{ end }}
+</div>

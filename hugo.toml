@@ -1,0 +1,8 @@
+baseURL = 'https://akademia.trojsten.sk/'
+languageCode = 'sk'
+title = 'Akadémia Trojstenu'
+
+disableKinds = ['taxonomy', 'term']
+
+[markup.goldmark.renderer]
+unsafe = true

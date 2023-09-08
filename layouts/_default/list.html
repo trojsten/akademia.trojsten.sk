@@ -1,0 +1,20 @@
+{{ define "body" }}
+
+<div class="mx-auto max-w-4xl px-6 lg:px-8 py-10 sm:py-16">
+    <div class="prose max-w-full">
+        {{ .Content }}
+    </div>
+
+    <ul class="mt-6 space-y-2">
+        {{ range .Pages }}
+        <li>
+            <a href="{{ .Permalink }}" class="text-xl font-semibold text-red-600 hover:underline">
+                {{ .Title }}
+            </a>
+            <div class="text-sm text-gray-600">{{ .Date.Format "02.01.2006" }}</div>
+        </li>
+        {{ end }}
+    </ul>
+</div>
+
+{{ end }}

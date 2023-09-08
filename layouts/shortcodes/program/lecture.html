@@ -1,0 +1,41 @@
+<div class="p-4">
+    <div class="flex items-center gap-3">
+        {{ if .Get "photo" }}
+            {{ $photo := resources.Get (printf "presenters/%s" (.Get "photo")) }}
+            <img src="{{ $photo.RelPermalink }}" class="w-12 rounded-full" alt="{{ .Get "name" }}"/>
+        {{ end }}
+        <div>
+            <h2 class="text-lg font-semibold text-gray-900">{{ .Get "name" }}</h2>
+            <p class="-mt-1 text-sm text-gray-600">{{ .Get "presenter" }}</p>
+        </div>
+    </div>
+    <div class="mt-3 prose max-w-full">
+        {{ .InnerDeindent | markdownify }}
+    </div>
+    <div class="mt-3 gap-4 text-gray-400 text-sm flex items-center">
+        {{ if .Get "room" }}
+        <div class="flex items-center gap-2">
+            <span class="iconify h-4 w-4" title="Miestnosť" data-icon="mdi:door"></span>
+            {{ .Get "room" }}
+        </div>
+        {{ end }}
+        {{ if .Get "science" }}
+        <div class="flex items-center gap-2">
+            <span class="iconify h-4 w-4" title="Odbor" data-icon="mdi:flask"></span>
+            {{ .Get "science" }}
+        </div>
+        {{ end }}
+        {{ if .Get "video" }}
+        <a href="{{ .Get "video" }}" class="flex items-center gap-2 text-red-800 hover:text-red-600" target="_blank" rel="noopener">
+            <span class="iconify h-4 w-4" data-icon="mdi:video"></span>
+            Video
+        </a>
+        {{ end }}
+        {{ if .Get "slides" }}
+        <a href="{{ .Get "slides" }}" class="flex items-center gap-2 text-red-800 hover:text-red-600" target="_blank" rel="noopener">
+            <span class="iconify h-4 w-4" data-icon="mdi:presentation"></span>
+            Slajdy
+        </a>
+        {{ end }}
+    </div>
+</div>
