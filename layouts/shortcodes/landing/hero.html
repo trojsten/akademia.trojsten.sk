@@ -3,10 +3,10 @@
     <video src="{{ $img.RelPermalink }}" class="absolute inset-0 -z-20 h-full w-full object-cover" autoplay loop muted></video>
     <div class="absolute inset-0 w-full h-full bg-white/60 -z-10"></div>
 
-    <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
+    <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56 px-4">
         <div class="text-center">
             {{- $img := resources.Get "logo/color.svg" -}}
-            <img src="{{ $img.RelPermalink }}" alt="Akadémia Trojstenu" class="h-28 mx-auto mb-8">
+            <img src="{{ $img.RelPermalink }}" alt="Akadémia Trojstenu" class="h-16 sm:h-28 mx-auto mb-8">
 
             <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">{{ .Get "title" }}</h1>
             {{ if strings.ContainsNonSpace (.Get "subtitle") }}
