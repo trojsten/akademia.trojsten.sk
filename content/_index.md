@@ -53,5 +53,5 @@ title: Akadémia Trojstenu
     subtitle="Akadémia Trojstenu sa bude konať xx. decembra 2023."
 >}}
     {{<link-button text="Program Akadémie" url="/program/">}}
-    {{<button text="Prihláška" url="#" icon-right="mdi:arrow-right">}}
+    {{<button text="Prihláška" url="/prihlaska/" icon-right="mdi:arrow-right">}}
 {{</landing/cta>}}
