@@ -2,8 +2,8 @@
 title: Akadémia Trojstenu
 ---
 {{< landing/hero
-    title="Otvárame brány k vede stredoškolákom"
-    subtitle="Populárne prednášky od popredných prednášajúcich z Fakulty matematiky, fyziky a informatiky UK."
+    title="Otvárame stredoškolákom brány k vede "
+    subtitle="Populárne prednášky (nie len) od popredných prednášajúcich z Fakulty matematiky, fyziky a informatiky UK."
 />}}
 
 {{< landing/simple-section
@@ -12,14 +12,14 @@ title: Akadémia Trojstenu
     {{< landing/icon-grid >}}
         {{< landing/icon-grid-item icon="mdi:account-tie"
             title="Odborní prednášajúci" >}}
-        Máš príležitosť stretnúť sa s vedcami a učiteľmi z Fakulty matematiky, fyziky a informatiky
-        Univerzity Komenského, ktorí si pre teba pripravia odborné prednášky zo svojho odboru. 
+        Máš príležitosť stretnúť sa s vedcami a učiteľmi,
+        ktorí si pre teba pripravia odborné prednášky zo svojho odboru.
         {{</ landing/icon-grid-item >}}
 
         {{< landing/icon-grid-item icon="mdi:human-male-board"
             title="Populárne prednášky" >}}
         Prednášajúci ti odprezentujú zaujímavé koncepty a princípy z oblasti matematiky, fyziky a informatiky jednoduchým,
-        popularizačným a prístupným spôsobom.
+        populárnym a prístupným spôsobom.
         {{</ landing/icon-grid-item >}}
 
         {{< landing/icon-grid-item icon="mdi:brain"
