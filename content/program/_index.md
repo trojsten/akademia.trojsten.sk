@@ -2,6 +2,10 @@
 title: Program
 aliases:
   - events
+menu:
+  main:
+    weight: 10
+    title: Program
 ---
 
 # Program Akadémie Trojstenu

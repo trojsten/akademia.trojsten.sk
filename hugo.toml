@@ -3,6 +3,7 @@ languageCode = 'sk'
 title = 'Akadémia Trojstenu'
 
 disableKinds = ['taxonomy', 'term']
+buildFuture = true
 
 [markup.goldmark.renderer]
 unsafe = true
