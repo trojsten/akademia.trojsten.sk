@@ -30,8 +30,8 @@ Pre bližšie informácie o odchodoch spojov, cestovných lístkoch a MHD v Brat
 
 Zo zastávky Botanická záhrada sa dostanete na FMFI UK podľa mapky. Prednáškové sály F1 a F2 sa nachádzajú v pavilóne fyziky hneď pri vstupe. Riaďte sa podľa šípok.
 
-<!-- majakepavu pre fyz vratnicu, kapunebafe pre mat vratnicu -->
-<iframe style="border:none" src="https://en.frame.mapy.cz/s/kapunebafe" class="w-full" height="500" frameborder="0"></iframe>
+<!-- majakepavu pre fyz vratnicu, folasefura pre mat vratnicu -->
+<iframe style="border:none" src="https://en.frame.mapy.cz/s/folasefura" class="w-full" height="500" frameborder="0"></iframe>
 
 ## Kontaktná osoba
 
