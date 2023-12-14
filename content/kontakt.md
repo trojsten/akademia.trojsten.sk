@@ -28,7 +28,7 @@ Pre bližšie informácie o odchodoch spojov, cestovných lístkoch a MHD v Brat
 
 ### Ako sa dostať zo zást. Botanická záhrada na FMFI?
 
-Zo zastávky Botanická záhrada sa dostanete na FMFI UK podľa mapky. Prednáškové sály F1 a F2 sa nachádzajú v pavilóne fyziky hneď pri vstupe. Riaďte sa podľa šípok.
+Zo zastávky Botanická záhrada sa dostanete na FMFI UK podľa mapky. Prednáškové sály A a B sa nachádzajú v pavilóne posluchárni. Keď vstúpite do budovy FMFI cez vrátnicu matematického pavilónu (viď mapka), k prednáškovým sálam sa dostanete cez chodbu vľavo. Riaďte sa podľa šípok.
 
 <!-- majakepavu pre fyz vratnicu, folasefura pre mat vratnicu -->
 <iframe style="border:none" src="https://en.frame.mapy.cz/s/folasefura" class="w-full" height="500" frameborder="0"></iframe>
