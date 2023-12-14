@@ -22,7 +22,7 @@ Pre bližšie informácie o odchodoch spojov, cestovných lístkoch a MHD v Brat
 
 ### Ako sa dostať na FMFI z Autobusovej stanice Nivy?
 
-Autobusom **70** na zastávku **Nám. Ľ. Štúra**, odtiaľ električkou **4** (smer Dúbravka) na zastávku **Botanická záhrada**. Cesta trvá približne 20 minút. Od zástavky Botanická záhrada sa ide ku fakulte peši približne 10 minút.
+Autobusom **70** na zastávku **Most SNP**, odtiaľ električkou **4** (smer Dúbravka) na zastávku **Botanická záhrada**. Cesta trvá približne 20 minút. Od zástavky Botanická záhrada sa ide ku fakulte peši približne 10 minút.
 
 Pre bližšie informácie o odchodoch spojov, cestovných lístkoch a MHD v Bratislave navštívte [imhd.sk](https://imhd.sk/ba/mhd).
 
