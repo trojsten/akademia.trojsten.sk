@@ -3,7 +3,7 @@ title: Akadémia Trojstenu
 ---
 {{< landing/hero
     title="Otvárame stredoškolákom brány k vede "
-    subtitle="Populárne prednášky (nie len) od popredných prednášajúcich z Fakulty matematiky, fyziky a informatiky UK."
+    subtitle="Populárne prednášky (nielen) od popredných prednášajúcich z Fakulty matematiky, fyziky a informatiky UK."
 />}}
 
 {{< landing/simple-section
