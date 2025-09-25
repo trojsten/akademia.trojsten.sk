@@ -50,7 +50,7 @@ title: Akadémia Trojstenu
 
 {{<landing/cta
     title="Chceš nadobudnúť nové vedomosti?"
-    subtitle="Akadémia Trojstenu sa bude konať 13. decembra 2024."
+    subtitle="Akadémia Trojstenu sa bude konať 12. decembra 2025."
 >}}
     {{<link-button text="Program Akadémie" url="/program/">}}
     {{<button text="Prihláška" url="/prihlaska/" icon-right="mdi:arrow-right">}}

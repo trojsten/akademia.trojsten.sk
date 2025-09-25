@@ -35,7 +35,9 @@ Zo zastávky Botanická záhrada sa dostanete na FMFI UK podľa mapky. Prednáš
 
 ## Kontaktná osoba
 
-V prípade akýchkoľvek otázok sa neváhajte obrátiť na organizátora:
+V prípade akýchkoľvek otázok sa neváhajte obrátiť na organizátorov:
+
+akademia@trojsten.sk
 
 **Matej Novota**\
 matej.novota@trojsten.sk\
