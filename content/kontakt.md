@@ -26,7 +26,7 @@ Autobusom **70** na zastávku **Most SNP**, odtiaľ električkou **4** (smer Dú
 
 Pre bližšie informácie o odchodoch spojov, cestovných lístkoch a MHD v Bratislave navštívte [imhd.sk](https://imhd.sk/ba/mhd).
 
-### Ako sa dostať zo zást. Botanická záhrada na FMFI?
+### Ako sa dostať zo zast. Botanická záhrada na FMFI?
 
 Zo zastávky Botanická záhrada sa dostanete na FMFI UK podľa mapky. Prednáškové sály A a B sa nachádzajú v pavilóne posluchárni. Keď vstúpite do budovy FMFI cez vrátnicu matematického pavilónu (viď mapka), k prednáškovým sálam sa dostanete cez chodbu vľavo. Riaďte sa podľa šípok.
 
