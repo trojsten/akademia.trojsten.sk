@@ -39,6 +39,5 @@ V prípade akýchkoľvek otázok sa neváhajte obrátiť na organizátorov:
 
 akademia@trojsten.sk
 
-**Matej Novota**\
-matej.novota@trojsten.sk\
-[+421 917 740 327](tel:+421917740327)
+**Denys Andrukhovskyi**\
+denys.andrukhovskyi@trojsten.sk

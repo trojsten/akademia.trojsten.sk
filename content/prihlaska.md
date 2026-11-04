@@ -7,7 +7,7 @@ menu:
 
 # Prihláška
 
-Prihlásiť sa na Akadémiu Trojstenu 2025 môžete na nižšie uvedených odkazoch:
+Prihlásiť sa na Akadémiu Trojstenu 2026 môžete na nižšie uvedených odkazoch:
 
-- [Prihlasovanie pre jednotlivcov](https://forms.gle/cXk3VAT57yaKp8R26)
-- [Prihlasovanie pre školy](https://forms.gle/QjSimW2trrkcjXYPA)
+- [Prihlasovanie pre jednotlivcov](https://forms.gle/Ffm6qmUAgz6DG9EW8)
+- [Prihlasovanie pre školy](https://forms.gle/WL9n3pdFCDz9JYdr6)
